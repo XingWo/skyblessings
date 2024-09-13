@@ -981,7 +981,7 @@ function importConfig(event) {
             return;
           }
 
-          const existingIndex = drawItems.findIndex(existingItem => existingItem.name === item.name);
+          const existingIndex = drawItems.findIndex(existingItem => existingItem.name === item.name & existingItem.parentId === item.parentId);
           if (existingIndex >= 0) {
             // 如果同级项存在相同的“获奖人/奖项”和相同的“ID”，则叠加权重
             drawItems[existingIndex].weight += item.weight;
