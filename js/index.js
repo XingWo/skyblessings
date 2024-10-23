@@ -4,27 +4,6 @@
 		startDraw();
 	}
 });
-function boxing(){
-	var winhei=document.documentElement.clientHeight;
-	var winwid=document.documentElement.clientWidth;
-	if(winhei>winwid){
-		$(".pinmutishi").show();
-		$('#pinmutishi').html("推荐使用横屏浏览哦~"); 
-	}else{
-		if(winhei*13>winwid*9){
-			$(".pinmutishi").show();
-			$('#pinmutishi').html("折叠屏？概念机？我可都没有!你还搁着等适配呢？~"); 
-		}else{
-			$(".pinmutishi").hide();
-		}
-	}
-};
-window.onresize=function(){
-	boxing();
-};
-$(document).ready(function(){
-	boxing();
-});
 window.onload = function() {
     // 导入配置
     const configData = `
