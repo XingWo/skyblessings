@@ -14,9 +14,6 @@ function boxing(){
 		if(winhei*13>winwid*9){
 			$(".pinmutishi").show();
 			$('#pinmutishi').html("折叠屏？概念机？我可都没有!你还搁着等适配呢？~"); 
-		}else if(winwid < 1240){
-			$(".pinmutishi").show();
-			$('#pinmutishi').html("不是？什么屏幕这么小啊？"); 
 		}else{
 			$(".pinmutishi").hide();
 		}
