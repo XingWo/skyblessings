@@ -6,6 +6,20 @@
 	margin: 0;
 	padding: 0%;
   }
+  .pinmutishi{
+  	position: fixed;
+  	left: 0;top: 0;bottom: 0;right: 0;
+  	height: 100%;
+  	width: 100%;
+  	content: '';
+  	background: steelblue;
+  	opacity:0.8;
+  	transition:all 0.3s;
+  	z-index: 100;
+  	display: none;
+  	line-height: 100vh;
+  	text-align: center;
+  }
   #backgrounddiv{
   	width: 1240px;
   	height: 620px;
