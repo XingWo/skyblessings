@@ -11,7 +11,7 @@ window.onload = function() {
 	  0,backgroundimg0,53,,backgroundimg
 	  0,backgroundimg1,53,,backgroundimg
 	  0,backgroundimg2,53,,backgroundimg
-	  9,backgroundimg3,3,,backgroundimg
+	  9,backgroundimg3,1,,backgroundimg
       1,大吉,24,0,textimg
       11,结缘物：心火,1,1,dordas
       11,结缘物：水母,1,1,dordas
