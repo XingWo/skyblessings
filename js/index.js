@@ -40,7 +40,7 @@ window.onload = function() {
       11111,宜：交友,1,1111,entry
       11111,宜：相聚,1,1111,entry
       11111,宜：观影,1,1111,entry
-      2,中吉,33,0,textimg
+      2,中吉,48,0,textimg
       22,结缘物：遥鲲,1,2,dordas
       22,结缘物：荧光小菇,1,2,dordas
       22,结缘物：蝴蝶,1,2,dordas
@@ -133,7 +133,7 @@ window.onload = function() {
       33333,忌：积郁寡欢,1,3333,entry
       33333,忌：抗拒改变,1,3333,entry
       33333,忌：口是心非,1,3333,entry
-      5,吉,48,0,textimg
+      5,吉,33,0,textimg
       55,结缘物：海,1,5,dordas
       55,结缘物：风,1,5,dordas
       55,结缘物：云,1,5,dordas
@@ -158,7 +158,7 @@ window.onload = function() {
       55555,忌：不思进取,1,5555,entry
       55555,忌：一意孤行,1,5555,entry
       55555,忌：抗拒改变,1,5555,entry
-      6,奇,2,9,textimg
+      6,奇,1,9,textimg
       66,结缘物：螃蟹,1,6,dordas
       66,结缘物：冥龙,1,6,dordas
       666,缘彩：雷雨垂,1,66,dordascolor
