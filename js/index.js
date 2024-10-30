@@ -217,8 +217,6 @@ function startDraw() {
 	  	
 		  $('#backgroundimg').css('-webkit-mask-image', 'url(./starimg/background3.png)');
 	  }
-  }else{
-	  drawResultses.push(selectedItem.name); // 添加抽中的 N0 项
   }
   // 递归抽取下级项
   function drawSubItems(parentId) {
